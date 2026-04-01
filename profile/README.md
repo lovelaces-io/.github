@@ -1,10 +1,4 @@
-# Hey there 👋
 
-**Your friendly neighborhood developers.**
-
-We're Lovelaces — a small studio building tools that make life easier for developers and users alike.
-
----
 
 ### Projects
 
